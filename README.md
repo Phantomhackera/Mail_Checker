@@ -1,2 +1,2 @@
 # Mail_Checker
-:v
+:v pip3 install names requests 
